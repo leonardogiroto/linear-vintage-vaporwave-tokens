@@ -1,0 +1,20 @@
+{
+  "color": {
+    "base": {
+      "pink": {
+        "main" : { "value": "#CCCCCC" }
+      },
+      "purple": {
+        "light" : { "value": "#CCCCCC" },
+        "dark": { "value": "#A37ED0" } 
+      },
+      "blue": {
+        "main" : { "value": "#CCCCCC" }
+      },
+      "neutral": {
+        "black": { "value": "#0a2634" },
+        "white": { "value": "#FFFFFF" }
+      }
+    }
+  }
+}

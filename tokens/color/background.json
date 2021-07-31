@@ -1,0 +1,9 @@
+{
+  "color": {
+    "font": {
+      "base"     : { "value": "{color.base.pink.main.value}" },
+      "secondary": { "value": "{color.base.purple.light.value}" }
+    }
+  }
+}
+  

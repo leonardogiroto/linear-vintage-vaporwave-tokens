@@ -1,0 +1,8 @@
+{
+  "color": {
+    "font": {
+      "base"     : { "value": "{color.base.neutral.black.value}" },
+      "secondary": { "value": "{color.base.neutral.white.value}" }
+    }
+  }
+}

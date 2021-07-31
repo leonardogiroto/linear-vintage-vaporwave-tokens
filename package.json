@@ -1,0 +1,11 @@
+{
+  "name": "linear-vintage-vaporwave-tokens",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "rimraf build && style-dictionary build"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "style-dictionary": "^3.0.1"
+  }
+}
