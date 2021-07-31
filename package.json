@@ -4,7 +4,10 @@
   "version": "0.0.3",
   "author": "Leonardo Giroto",
   "license": "ISC",
-  "keywords": ["design-tokens", "style-dictionary"],
+  "keywords": [
+    "design-tokens",
+    "style-dictionary"
+  ],
   "scripts": {
     "build": "rimraf build && style-dictionary build"
   },
