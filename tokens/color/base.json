@@ -2,14 +2,15 @@
   "color": {
     "base": {
       "pink": {
-        "main" : { "value": "#CCCCCC" }
+        "main" : { "value": "#FAA8D8" }
       },
       "purple": {
-        "light" : { "value": "#CCCCCC" },
-        "dark": { "value": "#A37ED0" } 
+        "light" : { "value": "#CFC4FE" },
+        "main": { "value": "#A37ED0" },
+        "dark": { "value": "#9895E0" } 
       },
       "blue": {
-        "main" : { "value": "#CCCCCC" }
+        "main" : { "value": "#79d7f9" }
       },
       "neutral": {
         "black": { "value": "#0a2634" },

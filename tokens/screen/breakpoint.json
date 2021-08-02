@@ -1,0 +1,12 @@
+{
+  "screen": {
+    "breakpoint": {
+      "sm" : {
+        "value": "600px"
+      },
+      "md": {
+        "value": "1024px"
+      }
+    }
+  }
+}
