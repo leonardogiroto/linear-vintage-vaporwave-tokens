@@ -1,8 +1,9 @@
 {
   "color": {
     "font": {
-      "base"     : { "value": "{color.base.neutral.black.value}" },
-      "secondary": { "value": "{color.base.neutral.white.value}" }
+      "base"    : { "value": "{color.base.neutral.black.value}" },
+      "inverted": { "value": "{color.base.neutral.white.value}" },
+      "primary":  { "value": "{color.base.pink.main.value}" }
     }
   }
 }

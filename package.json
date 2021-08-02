@@ -1,10 +1,13 @@
 {
   "name": "linear-vintage-vaporwave-tokens",
   "description": "Design tokens package with linear vintage vaporwave style for naluiza plays website",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Leonardo Giroto",
   "license": "ISC",
-  "keywords": ["design-tokens", "style-dictionary"],
+  "keywords": [
+    "design-tokens",
+    "style-dictionary"
+  ],
   "scripts": {
     "build": "rimraf build && style-dictionary build"
   },

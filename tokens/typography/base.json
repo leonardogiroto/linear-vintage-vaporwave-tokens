@@ -1,0 +1,15 @@
+{
+  "typography": {
+    "font-family": "Arial",
+    "letter-spacing": { "value": "1.5px" },
+    "heading": {
+      "font-size": { "value": "16px" },
+      "line-height": { "value": "24px" }
+    },
+    "paragraph": {
+      "font-size": { "value": "14px" },
+      "line-height": { "value": "22px" }
+    }
+  }
+}
+  

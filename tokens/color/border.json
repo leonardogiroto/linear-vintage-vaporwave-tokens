@@ -1,0 +1,9 @@
+{
+  "color": {
+    "border": {
+      "primary"  : { "value": "{color.base.pink.main.value}" },
+      "secondary": { "value": "{color.base.purple.dark.value}" }
+    }
+  }
+}
+  
